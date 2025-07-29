@@ -22,10 +22,10 @@ It ain’t built for medicos — it’s built for learning.
 
 ## Real World Evaluation
 
-After training, the models were tested on a tiny, unseen real-world dataset to see how they'd generalize.
-Spoiler: v2 > v1. Every time.
-On average, v1 got only 1-2 out of 4 x-rays correct, while v2 consistently predicted 3 x-rays or higher out of 4 correctly.
-
+- After training, the models were tested on a tiny, unseen real-world dataset to see how they'd generalize.
+- Spoiler: v2 > v1. Every time.
+- On average, v1 got only 1-2 out of 4 x-rays correct, while v2 consistently predicted 3 x-rays or higher out of 4 correctly.
+- You can test this yourself with the x-rays provided in the [realimages](./realimages) subfolder! Scroll below to see how you can run it.
 ---
 
 ## Tech Stack
@@ -54,11 +54,11 @@ Downloaded manually — no API wizardry. Props to the author.
 
 ## Run it Yourself
 
-- refer the [runitlocally.md](./runitlocally.md) file for info.
+- Refer the [runitlocally.md](./runitlocally.md) file for info.
 
 ## Author 
 
-- Sreyansh Acharya - CS Student at GITAM Hyd and aspiring ML Engineer with interests in Deep Learning, Astronomy and Rock Music 🤘🏻
+- **Sreyansh Acharya** - CS Student at GITAM Hyd and aspiring ML Engineer with interests in Deep Learning, Astronomy and Rock Music 🤘🏻
 - Connect with me:
     - sreyanshacharyaa@gmail.com
     - [github.com/sreyanshacharya](https://github.com/sreyanshacharya)
