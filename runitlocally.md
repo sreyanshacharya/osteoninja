@@ -50,7 +50,7 @@ Install everything with:
   - Ensure your test x-rays are in the correct path ([project]/realworldimages/)
   - Run "test.py" to run the model on the test x-rays.
 
-### v2 - Transferred Model w/ ResNet50
+### v2 - Transferred Model w/ MobileNetV2
   - Ensure you are currently active in "v2" folder.
   - Run "train.py" to initialise model and train it.
   - Ensure your test x-rays are in the correct path ([project]/realworldimages/)
