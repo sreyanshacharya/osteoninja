@@ -54,11 +54,11 @@ Downloaded manually — no API wizardry. Props to the author.
 
 ## Run it Yourself
 
-- refer the runitlocally.md file for info.
+- refer the [runitlocally.md](./runitlocally.md) file for info.
 
 ## Author 
 
 - Sreyansh Acharya - CS Student at GITAM Hyd and aspiring ML Engineer with interests in Deep Learning, Astronomy and Rock Music 🤘🏻
 - Connect with me:
     - sreyanshacharyaa@gmail.com
-    - github.com/sreyanshacharya
+    - [github.com/sreyanshacharya](https://github.com/sreyanshacharya)
