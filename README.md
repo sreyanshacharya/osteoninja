@@ -1,7 +1,7 @@
 # OsteoNinja  
 > Deep learning wizardry meets bone-breaking applications.
 
-OsteoNinja is a two-part X-ray fracture classification project built to level up my Deep Learning game. Starting with a CNN from scratch and leveling up to transfer learning with ResNet50, this project explores the challenges of training on small datasets, avoiding overfitting, and still scoring a decent shot at real-world performance.  
+OsteoNinja is a two-part X-ray fracture classification project built to level up my Deep Learning game. Starting with a CNN from scratch and leveling up to transfer learning with MobileNetV2, this project explores the challenges of training on small datasets, avoiding overfitting, and still scoring a decent shot at real-world performance.  
 
 It ain’t built for medicos — it’s built for learning.
 
