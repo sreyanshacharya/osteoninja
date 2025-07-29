@@ -13,8 +13,8 @@ It ain’t built for medicos — it’s built for learning.
 - Built & trained on augmented dataset (~4000+ images per class).  
 - Performs well in validation but fails in real-world unseen images (classic case of overfitting and using over-augmented data).
 
-### v2 – Transfer Learning w/ ResNet50  
-- Trained on the original non-augmented dataset (420 images in total) using ResNet50 as base.  
+### v2 – Transfer Learning w/ MobileNetV2  
+- Trained on the original non-augmented dataset (420 images in total) using MobileNetV2 as base.  
 - Smart unfreezing + light tuning resulted in solid performance.  
 - Holds up much better in real-world tests compared to v1.  
 
