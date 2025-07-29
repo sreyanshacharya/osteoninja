@@ -1,0 +1,16 @@
+augdata/
+ogdata/
+realworldimages/
+
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.env
+*.env
+
+*.ipynb
+*.log
+
+.DS_Store
+Thumbs.db
